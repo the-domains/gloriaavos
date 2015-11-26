@@ -1,0 +1,28 @@
+name: gloriaavos
+favicon: null
+layout_spectrum: 0.4154192660935223
+typography_spectrum: 0.47343050176277757
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.3758733437862247
+  lightness: 0.6620359467342496
+  saturation: 0.5170728212688118
+  rhythmicContrast: 0.5611522370018065
+purpose: []
